@@ -1,2 +1,10 @@
-# chapter6
-Teaching a Robot to Listen
+# Титульная страница
+
+Аспидова Алена Вячеславовна бпм-18-2
+
+Название книги: Artificial Intelligence for Robotics
+
+Глава 6. Обучение робота слушать
+
+страницы 169-194
+
